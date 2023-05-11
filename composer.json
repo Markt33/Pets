@@ -1,0 +1,12 @@
+{
+  "name": "tsvyanmg/328/Pets",
+  "authors": [
+    {
+      "name": "Mark Tsvyan",
+      "email": "tsvyan.mark@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
